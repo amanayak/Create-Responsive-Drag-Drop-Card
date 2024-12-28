@@ -1,6 +1,6 @@
 # Drag and Drop Card HTML CSS And JavaScript
 
-## [LIVE PREVIEW](https://amanayak.github.io/Create-Responsive-Drag-Drop-Card)
+## [LIVE PREVIEW](https://codinggujaratweb.github.io/Create-Responsive-Drag-Drop-Card)
 ### Drag & Drop Card
 
 - Drag and Drop Card Using HTML CSS And JavaScript
